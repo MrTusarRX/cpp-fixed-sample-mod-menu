@@ -1,2 +1,2 @@
 # cpp-fixed-sample-mod-menu
-cpp sample for you
+cpp sample for your
